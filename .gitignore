@@ -1,0 +1,5 @@
+/nbproject
+
+files/thumbs/*
+!files/thumbs/.gitkeep
+
